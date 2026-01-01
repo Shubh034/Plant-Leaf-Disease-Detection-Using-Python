@@ -91,8 +91,3 @@ pip install tensorflow
 pip install keras
 
 To run the project, execute the script: final.ipynb
-
-
-- Predict disease class using the trained CNN
-- Displays the image and predicted label
-- Labels mapping:
